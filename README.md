@@ -1,14 +1,14 @@
-Basic Recipe Website
+# Basic Recipe Website
 
 A simple recipe website built with HTML, CSS, and a small amount of JavaScript.
 This project displays a few classic recipes and focuses on practicing semantic HTML, basic layout, and responsive design.
 
 This is the first project from The Odin Project curriculum.
 
-📸 Preview
+## 📸 Preview
 Click on live demo below!
 
-🛠️ Built With
+## 🛠️ Built With
 
 HTML5
 
@@ -16,7 +16,7 @@ CSS3 (Flexbox)
 
 JavaScript (basic usage)
 
-🎯 What I Practiced
+## 🎯 What I Practiced
 
 Writing semantic HTML
 
@@ -30,15 +30,15 @@ Basic mobile responsiveness
 
 Organising files and committing changes with Git
 
-🚀 Live Demo
+## 🚀 Live Demo
 [Live Now!](https://kaynegraham.github.io/recipeswebsite/)
 
-📚 Acknowledgements
+## 📚 Acknowledgements
 
 The Odin Project
 — Foundations curriculum
 
-🧠 Notes
+## 🧠 Notes
 
 This project is intentionally simple and focuses on fundamentals.
 More advanced styling and functionality will be added in future projects.
