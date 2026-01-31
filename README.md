@@ -6,7 +6,7 @@ This project displays a few classic recipes and focuses on practicing semantic H
 This is the first project from The Odin Project curriculum.
 
 ## 📸 Preview
-Click on live demo below!
+[Live Demo](https://kaynegraham.github.io/recipeswebsite/)
 
 ## 🛠️ Built With
 
